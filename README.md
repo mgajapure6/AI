@@ -16,8 +16,8 @@ This project is a web application that uses the DistilBERT model to perform sent
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/distilbert-sentiment-app.git
-   cd distilbert-sentiment-app
+   git clone https://github.com/mgajapure6/AI.git
+   cd AI
    ```
 
 2. **Create a Virtual Environment**:
