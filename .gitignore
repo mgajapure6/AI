@@ -1,0 +1,7 @@
+myenv/
+*.pth
+*.bin
+*.pyc
+__pycache__/
+*.jpg
+*.png
